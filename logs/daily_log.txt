@@ -1,1 +1,7 @@
-
+# Copy this daily as template!
+Date:
+What I touched:
+What worked:
+What broke:
+How I fixed it:
+One sentence I can use in an interview:
